@@ -1,0 +1,14 @@
+{
+  "name": "node-purestorage",
+  "version": "0.0.1",
+  "description": "Node/Javascript package wrapper for Pure Storage REST api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Sutton <tsutton@ayetier.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
