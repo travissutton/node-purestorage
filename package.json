@@ -7,6 +7,10 @@
     "generate-docs": "./node_modules/.bin/jsdoc --configure ./jsdoc.json"
   },
   "author": "Travis Sutton <tsutton@ayetier.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/travissutton/node-purestorage"
+  }
   "license": "MIT",
   "dependencies": {
     "request": "^2.75.0"
